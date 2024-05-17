@@ -7,7 +7,7 @@ function App() {
         <div className="w-11/12 md:w-3/4">
           <div className="min-h-screen flex flex-col justify-center p-4 md:p-24">
             <div className="text-4xl md:text-[64px] text-primary font-semibold my-2 md:my-4">
-              Precis AI
+              PrecisAI
             </div>
 
             <div className="text-3xl md:text-[40px] font-semibold my-2 md:my-4">
